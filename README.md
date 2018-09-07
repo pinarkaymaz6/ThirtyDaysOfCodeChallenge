@@ -27,3 +27,5 @@ Day 10: Binary Numbers https://www.hackerrank.com/challenges/30-binary-numbers/p
 Day 11: 2D Arrays https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
 Day 12: Inheritance https://www.hackerrank.com/challenges/30-inheritance/problem
+
+Day 13: Abstract Classes https://www.hackerrank.com/challenges/30-abstract-classes/problem
