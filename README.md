@@ -29,3 +29,15 @@ Day 11: 2D Arrays https://www.hackerrank.com/challenges/30-2d-arrays/problem
 Day 12: Inheritance https://www.hackerrank.com/challenges/30-inheritance/problem
 
 Day 13: Abstract Classes https://www.hackerrank.com/challenges/30-abstract-classes/problem
+
+Day 14: Scope https://www.hackerrank.com/challenges/30-scope/problem
+
+Day 15: Linked List https://www.hackerrank.com/challenges/30-linked-list/problem
+
+Day 16: Exceptions https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
+
+Day 17: More Exceptions https://www.hackerrank.com/challenges/30-more-exceptions/problem
+
+Day 18: Queues and Stacks https://www.hackerrank.com/challenges/30-queues-stacks/problem
+
+Day 19: Interfaces https://www.hackerrank.com/challenges/30-interfaces/problem

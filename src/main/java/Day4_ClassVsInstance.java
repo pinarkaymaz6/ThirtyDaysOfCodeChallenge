@@ -7,7 +7,7 @@ public class Day4_ClassVsInstance {
         int T = sc.nextInt();
         for (int i = 0; i < T; i++) {
             int age = sc.nextInt();
-            Person p = new Person(age);
+            Persona p = new Persona(age);
             p.amIOld();
             for (int j = 0; j < 3; j++) {
                 p.yearPasses();
@@ -19,10 +19,10 @@ public class Day4_ClassVsInstance {
     }
 }
 
-class Person {
+class Persona {
     private int age;
 
-    public Person(int initialAge) {
+    public Persona(int initialAge) {
         // Add some more code to run some checks on initialAge
         if(initialAge < 0){
             this.age = 0;
