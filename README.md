@@ -43,3 +43,5 @@ Day 18: Queues and Stacks https://www.hackerrank.com/challenges/30-queues-stacks
 Day 19: Interfaces https://www.hackerrank.com/challenges/30-interfaces/problem
 
 Day 20: Sorting https://www.hackerrank.com/challenges/30-sorting/problem
+
+Day 21: Generics https://www.hackerrank.com/challenges/30-generics/problem
